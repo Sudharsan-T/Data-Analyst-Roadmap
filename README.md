@@ -6,7 +6,8 @@
 🔸 Advanced topics: Big Data, Deep Learning, and AI. 
 🔸 Practical tips: Projects, certifications, and networking advice.
 
-Explore the full roadmap here: [Link]
+Explore the full roadmap here: <a href="https://github.com/Sudharsan-T/Data-Analyst-Roadmap/blob/main/data-analyst-roadmap.pdf">Data Analyst Roadmap</a>
+
 
 Let’s conquer the data world together! 💪✨
 
